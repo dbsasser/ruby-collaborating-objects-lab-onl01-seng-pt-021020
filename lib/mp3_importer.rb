@@ -12,6 +12,6 @@ class MP3Importer
   end
   
   def import 
-    
+    .new_by_file_name
   end
 end
